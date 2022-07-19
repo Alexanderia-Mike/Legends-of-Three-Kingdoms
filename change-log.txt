@@ -1,0 +1,117 @@
+	10.28: build up the cards structure and the player structure in main function.
+
+write the header file.
+
+
+
+	10.29: write the code to read information from an txt file and store them into the card structure. 
+
+
+
+	10.30: write the distance function without considering the equipment cards.
+
+
+
+	11.3: transfer the structure building up from the main function into the sub-function, using the pointers, so that the structure of the whole program is much more clear. 
+
+
+
+	11.4: upload the definition of cards and players structures, so that the cards could be allocated into any players and classified into following three categories: in hands, in fate zone, in equipment zone. 
+Write a function to shuffle the cards, using another integer array. 
+
+
+
+	11.5: upload the function to shuffle the cards using pointers, so now the extra integer array isn't needed any more. 
+
+Write a function to deal the cards
+
+Write a function to reshuffle the discard pile when all the cards in deck are dealt out. 
+
+Write a function to change the player's health value so the subsequent operation would be much easier and clearer. 
+
+Upload the distance function so that the equipment card could now be considered.
+
+Write a big function to deal with the cards in the fate zone. Another small function is wrote during the process to return the result of the fate judgement. 
+
+Write a function to return all the cards of a player, dividing them into the three categories when displaying them. 
+	
+
+
+	11.14: 
+Create the double-linked list to connect the players.
+
+Create a function to play the card.
+
+Upload the function to return cards.
+
+Upload the change health function.
+
+Write a function to realize ask for help request when a player is dying.
+
+Write a function to check whether the game is ended.
+
+Write a function to discard if a player don't want to own it any more.
+
+
+
+	11.15:
+Write a function to list the fundamental information when game started.
+
+Write a function to pause the program, because in Mac OS there is no system("PAUSE");
+
+Write a function to strike.
+
+Write a function to dodge.
+
+Write a function to peach.
+
+Write a function to reveal a certain player's identity.
+
+Write a function to use wine.
+
+
+
+	11.16:
+Divide the distance function into two parts, one is distance, the other is attack range.
+
+Write a function to use arrowbarrage.
+
+Write a function to use borrowed sword.
+
+Write a function to use dismantle.
+
+Write a function to use snatch.
+
+Write a function to use barbarian invasion.
+
+Write a function to use binoculars.
+
+Write a function to use bow.
+
+Write a function to use horse.
+
+Write a function to use bountiful harvest.
+
+Write a function to use lightning.
+
+Write a function to use peach garden.
+
+Write a function to use starvation.
+
+Write a function to use drown in happiness.
+
+
+
+	11.17:
+Add the usage of input argument in command line to initialize the cards.
+
+Add the effect of system("clear");
+
+Debug a lot.
+
+
+
+	11.18:
+Add the usage of demo-mode.
+
+
