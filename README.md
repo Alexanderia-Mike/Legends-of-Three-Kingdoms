@@ -27,6 +27,7 @@ After that, you'll be asked whether you would like to use demo-mode (1 for yes a
 
 PS: Remember to reveal identity!! Or the game will not come to an end because the game will only reach an end when all the live players revealed their identities!!
 
+For more detailed explanation of the game rules and the requirements of this project, please refer to the file [p2.pdf](https://github.com/Alexanderia-Mike/Legends-of-Three-Kingdoms/blob/main/p2.pdf).
 
 
 ### Known bugs:
