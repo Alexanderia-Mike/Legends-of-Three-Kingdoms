@@ -1,6 +1,6 @@
 # Legends of Three Kingdoms
 
-Author: Lou Chenfei
+Author: Lou Chenfei  
 Creating date: Nov 18 2018
 
 
